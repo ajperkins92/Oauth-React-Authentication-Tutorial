@@ -43,3 +43,5 @@ class Questions extends Component {
         )
     }
 }
+
+export default Questions;
